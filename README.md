@@ -34,4 +34,4 @@ csv-файлы с транзакциями
 
 Mission CANVAS
 
-[a link](https://github.com/solegark/otus-ml-so/blob/main/MBM.html)
+![alt text](https://github.com/solegark/otus-ml-so/blob/main/MBM.html)
