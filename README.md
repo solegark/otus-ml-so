@@ -30,3 +30,8 @@ csv-файлы с транзакциями
 
 Инфобез: 
 Конфиденциальная информация - утечка недопустима
+
+
+Mission CANVAS
+
+[r2h]: [http://github.com/github/markup/tree/master/lib/github/commands/rest2html](https://github.com/solegark/otus-ml-so/blob/main/MBM.drawio)https://github.com/solegark/otus-ml-so/blob/main/MBM.drawio
