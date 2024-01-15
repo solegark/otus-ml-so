@@ -34,4 +34,5 @@ csv-файлы с транзакциями
 
 Mission CANVAS
 
-[r2h]: [http://github.com/github/markup/tree/master/lib/github/commands/rest2html](https://github.com/solegark/otus-ml-so/blob/main/MBM.drawio)https://github.com/solegark/otus-ml-so/blob/main/MBM.drawio
+[r2h]: [[http://github.com/github/markup/tree/master/lib/github/commands/rest2html](https://github.com/solegark/otus-ml-so/blob/main/MBM.drawio)https://github.com/solegark/otus-ml-so/blob/main/MBM.drawio
+](https://github.com/solegark/otus-ml-so/blob/main/MBM.html)https://github.com/solegark/otus-ml-so/blob/main/MBM.html
