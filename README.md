@@ -58,3 +58,6 @@
 
 ![image](https://github.com/solegark/otus-ml-so/assets/77381874/099c6aa3-30b6-46f8-9a9b-6c487be4fb41)
 
+
+## ДЗ_3
+Бакет для обработанных данных: s3://soa-otus-afraud/soa-otus-afraud-prq
