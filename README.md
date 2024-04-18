@@ -53,6 +53,8 @@
 
 ## ДЗ_2
 Бакет с данными: s3://soa-otus-afraud/data-afraud
+
 Содержимое hdfs-директории в кластере DataProc
+
 ![image](https://github.com/solegark/otus-ml-so/assets/77381874/099c6aa3-30b6-46f8-9a9b-6c487be4fb41)
 
